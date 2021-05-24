@@ -1,0 +1,13 @@
+{
+  "miniprogramRoot": ".",
+  "projectname": "basis-mini-program3",
+  "description": "面客端小程序",
+  "appid": "wxfebfae38522fbaa2",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false
+  },
+  "compileType": "miniprogram"
+}
